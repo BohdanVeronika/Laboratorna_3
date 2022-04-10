@@ -1,0 +1,168 @@
+D:\c#project\Labwork3\Labwork3\obj\Debug\Labwork3.csprojAssemblyReference.cache
+D:\c#project\Labwork3\Labwork3\obj\Debug\Labwork3.csproj.CoreCompileInputs.cache
+D:\c#project\Labwork3\Labwork3\bin\Labwork3.dll.config
+D:\c#project\Labwork3\Labwork3\bin\Labwork3.dll
+D:\c#project\Labwork3\Labwork3\bin\Labwork3.pdb
+D:\c#project\Labwork3\Labwork3\bin\roslyn\csc.exe
+D:\c#project\Labwork3\Labwork3\bin\roslyn\csc.exe.config
+D:\c#project\Labwork3\Labwork3\bin\roslyn\csc.rsp
+D:\c#project\Labwork3\Labwork3\bin\roslyn\csi.exe
+D:\c#project\Labwork3\Labwork3\bin\roslyn\csi.exe.config
+D:\c#project\Labwork3\Labwork3\bin\roslyn\csi.rsp
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.AppContext.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Collections.Immutable.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Console.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.IO.Compression.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.IO.FileSystem.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.IO.Pipes.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Reflection.Metadata.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.AccessControl.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Claims.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.ValueTuple.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Xml.XPath.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\c#project\Labwork3\Labwork3\bin\roslyn\vbc.exe
+D:\c#project\Labwork3\Labwork3\bin\roslyn\vbc.exe.config
+D:\c#project\Labwork3\Labwork3\bin\roslyn\vbc.rsp
+D:\c#project\Labwork3\Labwork3\bin\roslyn\VBCSCompiler.exe
+D:\c#project\Labwork3\Labwork3\bin\roslyn\VBCSCompiler.exe.config
+D:\c#project\Labwork3\Labwork3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\c#project\Labwork3\Labwork3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\c#project\Labwork3\Labwork3\obj\Debug\Labwork3.csproj.CopyComplete
+D:\c#project\Labwork3\Labwork3\obj\Debug\Labwork3.dll
+D:\c#project\Labwork3\Labwork3\obj\Debug\Labwork3.pdb
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\Labwork3.dll.config
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\Labwork3.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\Labwork3.pdb
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\csc.exe
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\csc.exe.config
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\csc.rsp
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\csi.exe
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\csi.exe.config
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\csi.rsp
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.Managed.Core.targets
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.AppContext.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Collections.Immutable.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Console.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.IO.Compression.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.IO.FileSystem.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.IO.Pipes.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Reflection.Metadata.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.AccessControl.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Claims.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Security.Principal.Windows.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.ValueTuple.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Xml.XmlDocument.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Xml.XPath.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\vbc.exe
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\vbc.exe.config
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\vbc.rsp
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\VBCSCompiler.exe
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\roslyn\VBCSCompiler.exe.config
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\obj\Debug\Labwork3.csproj.CoreCompileInputs.cache
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\obj\Debug\Labwork3.csproj.CopyComplete
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\obj\Debug\Labwork3.dll
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\obj\Debug\Labwork3.pdb
+F:\учоба\2 курс\c#project\Labwork3\Labwork3\obj\Debug\Labwork3.csprojAssemblyReference.cache
+D:\lab\Labwork3\bin\Labwork3.dll.config
+D:\lab\Labwork3\bin\Labwork3.dll
+D:\lab\Labwork3\bin\Labwork3.pdb
+D:\lab\Labwork3\bin\roslyn\csc.exe
+D:\lab\Labwork3\bin\roslyn\csc.exe.config
+D:\lab\Labwork3\bin\roslyn\csc.rsp
+D:\lab\Labwork3\bin\roslyn\csi.exe
+D:\lab\Labwork3\bin\roslyn\csi.exe.config
+D:\lab\Labwork3\bin\roslyn\csi.rsp
+D:\lab\Labwork3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\lab\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\lab\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\lab\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\lab\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\lab\Labwork3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\lab\Labwork3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\lab\Labwork3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\lab\Labwork3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\lab\Labwork3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\lab\Labwork3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\lab\Labwork3\bin\roslyn\System.AppContext.dll
+D:\lab\Labwork3\bin\roslyn\System.Collections.Immutable.dll
+D:\lab\Labwork3\bin\roslyn\System.Console.dll
+D:\lab\Labwork3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\lab\Labwork3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\lab\Labwork3\bin\roslyn\System.IO.Compression.dll
+D:\lab\Labwork3\bin\roslyn\System.IO.FileSystem.dll
+D:\lab\Labwork3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\lab\Labwork3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\lab\Labwork3\bin\roslyn\System.IO.Pipes.dll
+D:\lab\Labwork3\bin\roslyn\System.Reflection.Metadata.dll
+D:\lab\Labwork3\bin\roslyn\System.Security.AccessControl.dll
+D:\lab\Labwork3\bin\roslyn\System.Security.Claims.dll
+D:\lab\Labwork3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\lab\Labwork3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\lab\Labwork3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\lab\Labwork3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\lab\Labwork3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\lab\Labwork3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\lab\Labwork3\bin\roslyn\System.ValueTuple.dll
+D:\lab\Labwork3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\lab\Labwork3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\lab\Labwork3\bin\roslyn\System.Xml.XPath.dll
+D:\lab\Labwork3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\lab\Labwork3\bin\roslyn\vbc.exe
+D:\lab\Labwork3\bin\roslyn\vbc.exe.config
+D:\lab\Labwork3\bin\roslyn\vbc.rsp
+D:\lab\Labwork3\bin\roslyn\VBCSCompiler.exe
+D:\lab\Labwork3\bin\roslyn\VBCSCompiler.exe.config
+D:\lab\Labwork3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\lab\Labwork3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\lab\Labwork3\obj\Debug\Labwork3.csproj.AssemblyReference.cache
+D:\lab\Labwork3\obj\Debug\Labwork3.csproj.CoreCompileInputs.cache
+D:\lab\Labwork3\obj\Debug\Labwork3.csproj.CopyComplete
+D:\lab\Labwork3\obj\Debug\Labwork3.dll
+D:\lab\Labwork3\obj\Debug\Labwork3.pdb

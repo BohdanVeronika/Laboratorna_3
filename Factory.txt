@@ -1,0 +1,7 @@
+01 Ivanov Male Worker 9000
+02 Petrov Male Worker 8000
+03 Dub Female Director 13000
+04 Karpjuk Female CEO 11000
+05 Varga Male Menedger 8000
+06 Gubin Male Menedger 9000
+07 Fera Female Menedger 9000
